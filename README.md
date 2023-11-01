@@ -33,4 +33,5 @@ You will:
 
 - Learn how to extract Blocks (with/without attributes) Object's Properties and store/retrieve into/from SQL Server Database
 
-# After yiu are done you will have a strong knowledge working with AutoCAD and SQL Server Database by storing your data persistently that you can use for other Applications.
+
+ After you are done you will have a strong knowledge working with AutoCAD and SQL Server Database by storing your data persistently that you can use for other Applications.
